@@ -1,10 +1,25 @@
-👋 Hi, I’m @rishabhsingh818  
-👀 I’m interested in coding, open-source projects, and innovative tech solutions.  
-🌱 I’m currently learning web development, cloud computing, and AI integration.  
-💞️ I’m looking to collaborate on full-stack development projects and AI-based applications.  
-📫 How to reach me: rishabhsingh818@gmail.com | LinkedIn: linkedin.com/in/rishabhsingh818
+Rishabh Kumar Singh
 
-<!---
-rishabhsingh818/rishabhsingh818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech (CSE), ITER – SOA University
+💻 Aspiring Software Engineer | Backend & Data
+📍 Jharkhand, India
+
+About
+
+Computer Science engineering student with strong fundamentals in Java, Python, SQL, and OOP. I enjoy building backend systems and data-driven applications with clean logic, reliable database handling, and real-world relevance.
+
+Skills
+
+Languages: Java, Python, C, C++
+
+Core: OOP, DBMS, SQL, DSA, JDBC
+
+Tools: MySQL, Git/GitHub, Power BI, Snowflake (learning)
+
+Connect
+
+📧 rishabhsinghrajput8181@gmail.com
+
+🔗 https://www.linkedin.com/in/rishabhsingh818
+
+💻 https://github.com/rishabhsingh818
