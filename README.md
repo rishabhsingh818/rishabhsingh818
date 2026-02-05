@@ -10,11 +10,11 @@ Computer Science engineering student with strong fundamentals in Java, Python, S
 
 Skills
 
-Languages: Java, Python, C, C++
+Languages: Java, Python
 
-Core: OOP, DBMS, SQL, DSA, JDBC
+Core: OOP, DBMS, SQL, JDBC
 
-Tools: MySQL, Git/GitHub, Power BI, Snowflake (learning)
+Tools: MySQL, Git/GitHub, Power BI.
 
 Connect
 
